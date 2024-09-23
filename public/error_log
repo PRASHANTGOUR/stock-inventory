@@ -1,3 +1,0 @@
-[04-Dec-2023 14:59:30 UTC] PHP Fatal error:  Cannot redeclare Config\Filters::$globals in /home/airparxc/phoenix2.airquee.com/app/Config/Filters.php on line 73
-[04-Dec-2023 14:59:31 UTC] PHP Fatal error:  Cannot redeclare Config\Filters::$globals in /home/airparxc/phoenix2.airquee.com/app/Config/Filters.php on line 73
-[04-Dec-2023 14:59:41 UTC] PHP Fatal error:  Cannot redeclare Config\Filters::$globals in /home/airparxc/phoenix2.airquee.com/app/Config/Filters.php on line 73
