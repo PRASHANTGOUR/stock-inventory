@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1712847447;csrf_test_name|s:32:"cbac85f08aeceba9471b10ce90c75943";_ci_previous_url|s:37:"https://sepsialma.ro/prod/auth/a/show";user|a:3:{s:11:"auth_action";s:50:"CodeIgniter\Shield\Authentication\Actions\Email2FA";s:19:"auth_action_message";s:44:"You must complete a two-factor verification.";s:2:"id";i:48;}
